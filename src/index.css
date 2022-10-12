@@ -26,7 +26,7 @@ a {
 }
 
 .category-btn:hover {
-  background-color: #FC1503 !important;
+  background-color: #F4063C !important;
   color: white !important;
 }
 
@@ -50,12 +50,12 @@ a {
   text-transform: capitalize;
   display: flex;
   align-items: center;
-  justify-content: start;
+  justify-content: flex-start;
   cursor:pointer;
   background: transparent;
   outline: none;
   border: none;
-
+  min-width: 180px;
   padding: 7px 15px;
   margin: 10px 0px;
   border-radius: 20px;
@@ -65,6 +65,7 @@ a {
 @media screen and (max-width: 900px) {
   .category-btn{
     margin: 10px;
+    justify-content: center;
   }
 }
 
@@ -81,6 +82,7 @@ a {
 
   .react-player {
     height: 45vh !important;
+    border-radius: 15px !important;
   }
   .search-bar{
     width:200px;

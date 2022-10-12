@@ -1,9 +1,15 @@
-# Build and Deploy a Modern YouTube Clone Application in React JS with Material UI 5
+## Intro
+- I've built and deloyed this project as a YouTube clone application in `React.js` using the newest version of `Material UI` and APIs.
+- It has a stunning new video section, custom categories, channels, and video cards. Also channel pages, and importanly video pages where you can play video on the go from the app, see the relevant videos and much more.
+- Prerequisite for building this project: `HTML`, `CSS`, and `JavaScript`.
 
-![YouTube](https://i.ibb.co/4R5RkmW/Thumbnail-5.png)
+## Topics Included
+- React Functional Components
+- React File & Folder Structure
+- Material V5
+- Responsive Media Queries
+- RapidAPI's Usage
+- Fetching Data w/ RapidAPI
+- Usage of YouTube v3 API
 
-### Showcase your dev skills with practical experience and land the coding career of your dreams
-💻 JS Mastery Pro - https://jsmastery.pro/youtube
-✅ A special YOUTUBE discount code is automatically applied!
-
-📙 Get the Ultimate Frontend & Backend Development Roadmaps, a Complete JavaScript Cheatsheet, Portfolio Tips, and more - https://www.jsmastery.pro/links
+![Demo](./preview.png)

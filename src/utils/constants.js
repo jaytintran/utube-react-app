@@ -11,16 +11,24 @@ import GraphicEqIcon from '@mui/icons-material/GraphicEq';
 import TheaterComedyIcon from '@mui/icons-material/TheaterComedy';
 import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
+import WhatshotIcon from '@mui/icons-material/Whatshot';
+import PublicIcon from '@mui/icons-material/Public';
+import SportsMmaIcon from '@mui/icons-material/SportsMma';
+import GTranslateIcon from '@mui/icons-material/GTranslate';
 
-export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
+export const logo = 'https://upload.wikimedia.org/wikipedia/commons/8/84/Youtubevanced.png?20220416175432';
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
+  { name: 'Web3', icon: <PublicIcon />, },
   { name: 'JS Mastery', icon: <CodeIcon />, },
+  { name: 'JavaScript', icon: <CodeIcon />, },
   { name: 'Coding', icon: <CodeIcon />, },
   { name: 'ReactJS', icon: <CodeIcon />, },
   { name: 'NextJS', icon: <CodeIcon />, },
   { name: 'Music', icon: <MusicNoteIcon /> },
+  { name: 'Male Subliminals', icon: <WhatshotIcon /> },
+  { name: 'UFC Fights', icon: <SportsMmaIcon /> },
   { name: 'Education', icon: <SchoolIcon />, },
   { name: 'Podcast', icon: <GraphicEqIcon />, },
   { name: 'Movie', icon: <OndemandVideoIcon />, },
@@ -32,6 +40,7 @@ export const categories = [
   { name: 'Comedy', icon: <TheaterComedyIcon />, },
   { name: 'Gym', icon: <FitnessCenterIcon />, },
   { name: 'Crypto', icon: <DeveloperModeIcon />, },
+  { name: 'Learning French', icon: <GTranslateIcon />, },
 ];
 
 export const demoThumbnailUrl = 'https://i.ibb.co/G2L2Gwp/API-Course.png';
