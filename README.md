@@ -13,5 +13,7 @@
 - RapidAPI's Usage
 - Fetching Data w/ RapidAPI
 - Usage of YouTube v3 API
+- Axios Package
+- Redux Routing DOM
 
 ![Demo](./preview.png)
